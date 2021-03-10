@@ -401,8 +401,8 @@ footer ul li {
 
 
 button {
-    width: 180px;
-    height: 30px;
+    width: 200px;
+    height: 35px;
     border-radius: 12px;   
     background-color: #151A15; 
     margin-bottom: 40px;
@@ -433,6 +433,12 @@ button {
     margin-bottom: 68px;
 }
 
+#boton7,
+#boton8,
+#boton9,
+#boton10 {
+    font-family: 'Sarabun', sans-serif;
+}
 
 
 
